@@ -1,3 +1,45 @@
+## [0.1025.5](https://github.com/lightdash/lightdash/compare/0.1025.4...0.1025.5) (2024-03-06)
+
+
+### Bug Fixes
+
+* scheduler worker health endpoints ([#9267](https://github.com/lightdash/lightdash/issues/9267)) ([81364ff](https://github.com/lightdash/lightdash/commit/81364ff808403e8c22e23588e3dbc9d81d35c5b2))
+
+## [0.1025.4](https://github.com/lightdash/lightdash/compare/0.1025.3...0.1025.4) (2024-03-06)
+
+
+### Bug Fixes
+
+* use symbolSize to hide the symbol but display the labels for line and area type charts ([#9258](https://github.com/lightdash/lightdash/issues/9258)) ([19e7db2](https://github.com/lightdash/lightdash/commit/19e7db205b9406bc4745498384ffe33ac0fa3e5d))
+
+## [0.1025.3](https://github.com/lightdash/lightdash/compare/0.1025.2...0.1025.3) (2024-03-06)
+
+
+### Bug Fixes
+
+* add loading state to edit chart save button ([#9253](https://github.com/lightdash/lightdash/issues/9253)) ([c93980f](https://github.com/lightdash/lightdash/commit/c93980f9184fbaa773f98a7f7869847a1204c1b3))
+
+## [0.1025.2](https://github.com/lightdash/lightdash/compare/0.1025.1...0.1025.2) (2024-03-06)
+
+
+### Bug Fixes
+
+* delete property of columnProperties object ([#9061](https://github.com/lightdash/lightdash/issues/9061)) ([5ce0133](https://github.com/lightdash/lightdash/commit/5ce013385e168bb00fb1477357c6115471f6deb9))
+
+## [0.1025.1](https://github.com/lightdash/lightdash/compare/0.1025.0...0.1025.1) (2024-03-05)
+
+
+### Bug Fixes
+
+* only tag users with dashboard access ([#9250](https://github.com/lightdash/lightdash/issues/9250)) ([b18c026](https://github.com/lightdash/lightdash/commit/b18c026d8eaafedd117867b2c76b7e7d7bc29b82))
+
+# [0.1025.0](https://github.com/lightdash/lightdash/compare/0.1024.10...0.1025.0) (2024-03-05)
+
+
+### Features
+
+* enable hiding dashboard chart title ([#9249](https://github.com/lightdash/lightdash/issues/9249)) ([4fc607d](https://github.com/lightdash/lightdash/commit/4fc607da5d93f21a9cdf87dc9e3f1ebd9fe5963a))
+
 ## [0.1024.10](https://github.com/lightdash/lightdash/compare/0.1024.9...0.1024.10) (2024-03-05)
 
 
